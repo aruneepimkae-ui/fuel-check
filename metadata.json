@@ -1,0 +1,5 @@
+{
+  "name": "SmartRecon AI",
+  "description": "AI-powered financial reconciliation and anomaly detection system specifically designed to catch human errors between Bank and Book records.",
+  "requestFramePermissions": []
+}
