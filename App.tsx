@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { parseBookData, parseBankData } from './utils/parser';
 import { reconcileData } from './utils/logic';
 import { RAW_BOOK_CSV, RAW_BANK_CSV } from './constants';
